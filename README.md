@@ -1,2 +1,2 @@
 # Akshay__Resume
-[![Resume Thumbnail](Akshay_Resume.pdf)
+[![Click me](Akshay_Resume.pdf)
